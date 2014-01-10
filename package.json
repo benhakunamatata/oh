@@ -1,0 +1,12 @@
+{
+  "name": "oh",
+  "version": "0.0.0",
+  "description": "oh",
+  "main": "index.js",
+  "bin": "./bin/oh.js",
+  "scripts": {
+    "test": "node ./test/testoh.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
